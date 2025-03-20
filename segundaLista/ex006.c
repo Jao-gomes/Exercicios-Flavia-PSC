@@ -10,7 +10,6 @@
 #include <stdio.h>
 #include <math.h>
 
-// Declaração das funções para cálculo de área
 float calculateAreaOfSquare(float side);
 float calculateAreaOfRectangle(float width, float length);
 float calculateAreaOfCircle(float radius);
